@@ -1,0 +1,92 @@
+1	%d
+2	Font
+3	N/A
+4	Dragon Type Charm Index : %2d
+5	Devil Type Charm Index : %2d
+6	Beast Type Charm Index : %2d
+7	Bird Type Charm Index : %2d
+8	Insect Type Charm Index : %2d
+9	Male
+10	Female
+11	Stats(Y)
+12	Inventory(U)
+13	Core(T)
+14	Skill(I)
+15	Spell(O)
+16	Option
+17	Help(F10)
+18	Help : /h, /help
+19	Item, Order Shortcut Key : F1 / A
+20	Item, Order Shortcut Key : F2 / S
+21	Item, Order Shortcut Key : F3 / D
+22	Item, Order Shortcut Key : F4 / F
+23	Item, Order Shortcut Key : F5 / Z
+24	Item, Order Shortcut Key : F6 / X
+25	Item, Order Shortcut Key : F7 / C
+26	Item, Order Shortcut Key : F8 / V
+27	Hero Solo Key : Q
+28	First Hench Solo Key : W
+29	Second Hench Solo Key : E
+30	Third Hench Solo Key : R
+31	Exp:%.2f%%
+32	/h
+33	/H
+34	/help
+35	Short Cut Alteration : Tab Key
+36	Screen Shot : PrintScreen Key
+37	"Select All Charactoer : ~ Key (Left of ""1"" Key)"
+38	Appoint Selection Shortcut Key : Ctrl + Number Key (1~8)
+39	Whispering : [Character Name] [Message]
+40	Reject
+41	Accept
+42	Weight : %d
+43	Effect : %s
+44	[Rank Condition : %2d]
+45	[Ability Condition : %s %d]
+46	[MP Usage : %3d]
+47	[HP Usage : %3d]
+48	[Shooting Range : %2d]
+49	Name : %s
+50	%s (Unclaimed)
+51	Mix Master Online
+52	[Required Level : %2d]
+53	Plant Type Charm Index : %2d
+54	Mistery Type Charm Index : %2d
+55	Metal Type Charm Index : %2d
+56	Accept
+57	Reject
+58	Game Manager
+59	Dialog End
+60	@Dialog End
+61	All Core Recovery Cost : %9u
+62	Mix Cost : %u GP
+63	Success Rate : %d%%
+64	Success Rate : ?%%
+65	Gold
+66	Powerful
+67	Nimble
+68	Agile
+69	Lucky
+70	Elemental
+71	Hit Rate
+72	Attack
+73	Evasion
+74	Power
+75	Quick
+76	Accuracy
+77	Luck
+78	HP
+79	Point
+80	Remaining Time
+81	Nível de mistura : %d
+82	Nível de Mistura : ?
+83	Nível de Hench : %d~%d
+84	Caminho
+85	Opção
+86	ERRO IME
+87	[Amigo]
+88	Guild Master
+89	Guild-Líder
+90	Guild Membro
+91	Online
+92	Offline

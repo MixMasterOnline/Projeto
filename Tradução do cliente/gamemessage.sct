@@ -1,0 +1,387 @@
+1	%s não pode receber whisper agora.
+2	Não há nenhuma autoridade de aquisição sobre este item.
+3	Requerendo negociação para %s.
+4	%s está negociando com outros.
+5	%s ofereceu uma negociação. Está interessado?
+6	%s negociação cancelada.
+7	%s negociação cancelada.
+8	Houve um erro na negociação com %s.
+9	Negociação com %s foi um sucesso.
+10	%s ordem foi recebida.
+11	%s é controlável se o nível de uma personagem é mais do que %d.
+12	%s chegou no nível máximo.
+13	Need %u GP para classificar-se. Você gostaria de se classificar?
+14	Seu nível é insuficiente subir de posição. Ranking só é possível se o seu nível atinge %d.
+15	Um item não pode ser jogado fora, no estado atual.
+16	Um item não pode ser usado no estado atual.
+17	Escolha o alvo.
+18	O nível de %s é maior que o seu nível d%. Ele não pode ser controlada.
+19	Você não pode usar este equipamento no seu estado atual.
+20	MP é insuficiente.
+21	HP é insuficiente.
+22	Você quebrou uma regra de bate-papo. Você está proibido de conversar por 1 minuto.
+23	Após digitar o nome, pressione CONFIRMAR.
+24	Clique no Hench para mudar o nome.
+25	Restam %u segundos para recuperação.
+26	Você gostaria de voltar para a vila?
+27	(Voltar automaticamente quando você logout)
+28	Isto está cancelado.
+29	The maximum possible numbers of trade at once is 999.
+30	Fundos insuficientes.
+31	O nome é muito curto.
+32	O nome é muito longo.
+33	Espaço não pode ser usado.
+34	Nem um carácter chinês nem um carácter especial pode ser usado
+35	Esse nome não pode ser usado.
+36	Palavra inapropriada está sendo usada.
+37	A quantidade máxima de dinheiro que você pode jogar fora de uma vez só é 50000 GP.
+38	MIX BEM SUCEDIDO!!!
+39	Que azar, a mistura falhou!
+40	Seu núcleo no seu estado atual não pode ser misturado.
+41	Desculpe, você não tem dinheiro suficiente.
+42	O monstro do mesmo sexo não pode ser misturado.
+43	Nível Hench deve ser sobre o nível básico a ser utilizado para misturar.
+44	%s aprendeu a ordem de %s.
+45	No modo de batalha, o mapa não pode ser movido.
+46	Você deixou seu Hench para trás!
+47	Você não pode usar um item enquanto está sentado.
+48	Sua classificação não pode ser mais erguida.
+49	Não pode mais aumentar para um carrinho.
+50	Um item não pode ser jogado fora neste estado.
+51	Você não pode ter mais de 20 núcleos em seu inventário.
+52	Você só pode negociar 15 itens por vez.
+53	Você não pode fazer uma conversa enquanto está sentado ou no um modo de batalha.
+54	Nenhum personagem foi escolhido
+55	O alvo não está na zona de PK.
+56	Está não é uma zona de PK.
+57	Durante seu modo sentado, você não pode mover seu personagem.
+58	Você não pode ter mais.
+59	Você não pode ter mais de %d núcleos.
+60	você não pode pegar o item agora. 
+61	Em modo de batalha não é possivel sentar.
+62	O nome da sua Guild é inválido.
+63	Um item do Guild Master corrompido foi inserido.
+64	Guild estabelecida com sucesso.
+65	Uma vez que seja Guild Master ou líder de outra guild, uma nova Guild não pode ser estabelecida.
+66	Falha no estabelecimento da guild.
+67	Taxa de instalação da Guild é insuficiente.
+68	O número de líderes para o estabelecimento da guild é insuficiente.
+69	Permissão recusada devido a um de seus líderes tendo Sistema: Negar: Promotor on.
+70	Se Guild Master, ou um líder não estiver online, você não poderá criar uma nova guild sem que todos eles estiverem on-line.
+71	O nível do guild master para criar uma nova guild é insuficiente.
+72	O nível de líder exigido para o estabelecimento da Guild é muito baixo.
+73	O nome da Guild já existe. Por favor coloque um nome novo.
+74	Líder não aprovou a criação da Guild, portanto estabelecimento da Guild falhou.
+75	Falha na conexão com o servidor. Por favor, tente novamente mais tarde.
+76	%s convidou-o para se juntar em sua nova Guild,%s. você gostaria de aceitar a oferta?
+77	O pedido de adesão da Guild foi concluída. Se o pedido não é aceito no prazo de três dias, ele será excluído automaticamente.
+78	Você já pediu outras regiões. Você deve esperar pelo outro pedido.
+79	O Guild pretende juntar-se não existe mais.
+80	Você tem que esperar 6 dias para voltar.
+81	Você deve esperar três dias após sair de uma Guild antes de entrar na nova guild.
+82	Número de membros atingiu o seu limite.
+83	Você não tem autoridade para usar essa função.
+84	Aplicação de %d foi enviada para  %s.
+85	%s saiu da Guild.
+86	O Guild se separou.
+87	Se a guild tem mais do que 3 pessoas, não é possível dividir a Guild.
+88	%s se retirou desta Guild.
+89	Nome da guild deve ter mais do que 4 caracteres e no máximo 12 caracteres. Por favor, insira o nome da Guild agai
+90	Nome da guild não pode conter espaços nem caracteres inválidos
+91	Rank é muito baixo para fazer uma guild. Rank deve ser superior a 4 para o estabelecimento da guild.
+92	Pedido foi enviado para os líderes.
+93	Mensagem da guild é muito longa.
+94	Termos de entrada são muito longos.
+95	Linguagem inapropriada foi usada.
+96	Ninguem se juntou a guild.
+97	Você deve deixar a Guild atual antes de se juntar a outra Guild.
+98	Tem certeza que quer dividir a Guild? (Depois de dividir a Guild, a taxa de criação de Guild não será devolvida)
+99	Essa aplicação está cancelada.
+100	Guild Master não pode deixar a Guild. Você deve dar a maestria para alguém antes de sair.
+101	Por favor note, se o nome da Guild ou outras informações que contenham palavras inadequadas forem identificados a guild pode ser excluída sem qualquer aviso e você também será banido temporariamente.
+102	There are too many capture files, files cannot be saved.
+103	Se você deixar a Guild, você não pode criar uma nova guild por seis dias, ou participar de outra Guild por três dias. Você ainda quer deixar sua Guild?
+104	Você precisa de 7 dias para modificar essa informação.
+105	Autoridade de Guild Master foi modificada.
+106	O jogador precisa estar conectado ao jogo.
+107	A marca da Guild foi alterada. A marca será atualizada quando você se reconectar ao jogo.
+108	O número de vezes que você mudar a marca da Guild excedeu o limite.
+109	O tempo limite que vc podia trocar a marca de Guild expirou.
+110	Você gostaria de aceitar a autoridade de Guild Master?
+111	A transferencia de autoridade de Guild Master foi recusada.
+112	Nível insuficiente.
+113	Ele/Ela não é o mesmo guild-membro.
+114	A marca da Guild pode ser alterada uma vez dentro de 3 dias da primeira matrícula e não pode ser mudada depois. Depois de copiar bmp na pasta MixMaster, digite o nome do arquivo na janela abaixo com o formato. (por exemplo: guildmark.bmp).
+115	Arquivo não pode ser encontrado na pasta MixMaster.
+116	Restam %d segundos.
+117	O arquivo da marca da Guild deve ser de 24 bits de tamanho.
+118	A marca da guild deve ter 16 x 16 pixels de resolução. 
+119	O guild master não pode ser um líder.
+120	Por favor coloque 3 diferentes líderes.
+121	%s chegou em seu limite. 
+122	%s já está registrado como um amigo.
+123	%s não está conectado. 
+124	%s perguntou se você quer ser amigo dele/dela. Você gostaria de aceitar o convite ?
+125	Você gostaria de comprar um armazem? Custa: %dGP.
+126	Você gostaria de expandir seu armazém? O custo é: %dGP.
+127	Você comprou/expandiu o armazém.
+128	O armazém não pode ser mais expandido.
+129	Você precisa comprar um armazém primeiro.
+130	Não pode ser mais armazenado.
+131	Não tem espaço suficiente no inventário, não pode colocar mais itens.
+132	Falhou devido a erro inesperado.
+133	O valor Guild da experiência bônus %d pontos foi adquirido.
+134	%s recusou o pedido.
+135	O destino não está dentro da faixa de habilidade.
+136	Habilidade ainda não pode ser usada.
+137	%u GP foi obtido.
+138	Favor checar a taxa de sucesso de mistura primeiro.
+139	Se a taxa de sucesso de mistura for 0% a mistura é impossivel.
+140	Os monstros não podem ser recuperados no estado de Hench. Por favor, esconder seus monstros como núcleos.
+141	Gostaria de recuperar o núcleo selecionado? Se você deseja recuperar, por favor clique REVIVAL.
+142	Você não pode recuperar Núcleos vivos. Por favor, selecione Núcleos mortos.
+143	Você pode alterar o nome Hench se ele está vivo e escondido como um núcleo.
+144	Operação da habilidade falhou.
+145	Gostaria de fechar sua loja no mercado?
+146	Mercado está aberto. Para gerir o mercado, clique com o botão direito do seu personagem.
+147	O número máximo de itens para de exibição é 10.
+148	O número de itens que você quer vender mais do que aquilo que você tem.
+149	Você deve escrever algo em seu painel de mercado.
+150	Este item não pode ser negociado.
+151	O mesmo item foi escolhido duas vezes.
+152	Sua carteira atingiu seu limite.
+153	Não há itens para vender no mercado.
+154	O item já está vendido ou o dinheiro não é suficiente.
+155	Tem um item que não pode ser comprado.
+156	O mesmo item foi escolhido duas vezes.
+157	Você não tem dinheiro o bastante.
+158	Você não espaço suficiente no seu inventário.
+159	Está fechado.
+160	Você não colocou o numero de itens que você quer comprar.
+161	Uma posição de reavivamento é alterada de '%s' em '%s'.
+162	Encantar não está disponivel
+163	Encantado com sucesso.
+164	Falha no encantamento.
+165	O item desapareceu durante a falha no encantamento.
+166	Alguns options desapareceram durante a falha no encantamento
+167	Você gostaria de jogar fora este item ?
+168	O item que é usado para abrir o mercado não pode ser vendido.
+169	Seu ponto de ressureição é %s.
+170	Um monstro não pode ser jogado fora no estado de Hench. Deve ser um Core no inventário.
+171	Esses bens não podem ser mantidos.
+172	Seu inventário está cheio. Favor faça alguns espaços vagos e tente novamente.
+173	Encomenda perdida, ela não pode ser encontrada agora. Por favor, visite novamente.
+174	Desculpa companheiro, não há encomendas para você aqui.
+175	Aqui estão algumas encomendas para você. Favor checar seu inventário.
+176	Uma encomenda pode ser trazida uma única vez.
+177	Devido ao término do tempo de uso, '%s' desapareceu.
+178	Você não pode usar este item, verifique a exigência do item.
+179	Você não pode usar mais de dois poderes. Seu poder antigo vai desaparecer, tudo bem?
+180	Você não pode usar mais de duas marcas. Sua marca antiga vai desaparecer, tudo bem?
+181	Arraste o núcleo para a mistura a partir da janela principal. Certifique-se que o principal e o sub da mistura estão corretos.
+182	"Em caso de falha da mistura, seus níveis de Henches ""vão diminuir. Se os seus níveis são baixos, eles vão desaparecer."
+183	"Em caso de falha da mistura, seus níveis de Henches ""vão diminuir. Se os seus níveis são baixos, eles vão desaparecer."
+184	Misture só é possível se o gênero dos monstros forem diferentes.
+185	Essa não é uma mistura possível. Favor tentar outra fórmula.
+186	Você precisa de mais dinheiro para misturar.
+187	Esse item irá desaparecer depois da mistura.
+188	Seu inventário de núcleos está cheio
+189	Seu inventário de itens está cheio.
+190	voce gostaria de jogar fora esse nucleo?
+191	Voce tem que ficar de pé para fazer uma ação.
+192	%s partiu do mundo MixMaster.
+193	O nome da guild e a introdução não podem contem ' caracteres.
+194	%s apareceu em %s area.
+195	Não tem amigo conectado
+196	Não tem amigo registrado
+197	%s adquiriu %d valor de experiencia.
+198	Item encantado com sucesso.
+199	O item foi desclassificado por uma falha ao encantar.
+200	Encantar item falhou.
+201	Este item não é aplicável.
+202	uso incorreto.
+203	Essa atualização chegou no nível máximo. 
+204	Somente 3 tipos de series podem ser adicionadas.
+205	Este tipo de Encantamento já é aplicado a este item. Você precisa de um removedor para usá-lo mais.
+206	[%d Etapa] %s : nível aplicável %d ~ %d
+207	Uma mistura de item é necessária para esse núcleo
+208	Meu KillPoint é %d.
+209	%d valores de ganho de KillPoint.
+210	%d quantidades de KillPoint perdido.
+211	Tempo restante: %dDia %dHora %dMinuto
+212	%d dia, %d hora e %d minuto até que o tempo de conexão expire.
+213	Tempo de conexão disponivel é %d ano, %d mês, %d dia e %d hora.
+214	Conexão irá terminar em breve.
+215	Tempo restante até o fim :  %2d minutos
+216	Um tempo de conexão até dia %d dia, %d hora e %d minuto.
+217	Um tempo de conexão está disponível até dia %d ano, %d mês, %d dia e %d hora.
+218	Aplicação Siege Affair foi aceita com sucesso.
+219	Aplicação Siege Affair não pode ser aceita durante Siege Affair.
+220	Registro completo.
+221	Registro do dono do castelo Siege Affair é automático. 
+222	Guild mercenaria não pode  cannot requerer pelo Siege Affair
+223	Somente Guild Masters podem fazer uma aplicação do Siege Affair.
+224	Não há mais vagas para Siege Affair. 
+225	Você precisa de mais do que %uGP para participar. 
+226	O nível médio de sua Guild deve ser mais do que %d.
+227	É preciso haver mais do que %d membros na Guild.
+228	Cancelamento foi completado.
+229	Cancelamento do Siege Affair não pode ser procedido durante Siege Affair. 
+230	Cancelamento do Siege Affair só pode ser feito pelo Guild Master.
+231	Sua guild não está registrada.
+232	Aplicação mercenária foi completada com sucesso.
+233	Aplicação mercenária falhou.
+234	Tempo inválido.
+235	Mercenários não podem fazer aplicações.
+236	Guild de ataque não pode fazer o registro de mercenário.
+237	Somente o Guild Master dono do castelo pode requerer por um registro de mercenário.
+238	Mercenary has already been registered.
+239	Esse nome de Guild não existe. 
+240	O Guild Master mercenário deve estar no mesmo mapa para aceitar o requerimento.
+241	O Guild Master mercenário deve estar no mesmo mapa para aceitar o requerimento.
+242	Não tem autoridade.
+243	Somente o Guild Master mercenário pode fazer o cancelamento do mercenário.
+244	Cancelamento de soldado não pode ser feita.]
+245	Não é a hora do Siege Affair agora. Favor checar o tempo exato no site do jogo.
+246	Você não tem GP suficiente.
+247	Dinheiro é suficiente. A taxa é de %uGP.
+248	Uma aplicação mercenária foi requerida de %s da %s Guild.
+249	Voce gostaria de cancelar o registro de mercenário.
+250	Para Soul não pode ser recebida se o inventário estiver cheio.
+251	Hora do Siege Affair acabou. Você foi teleportado para que ponto de ressurreição. 
+252	Você não pode usar o item agora.
+253	Mover para outro mapa falhou.
+254	Mistura Parapoong começou!!
+255	Somente uma pessoa pode fazer a mistura Parapoong de cada vez.
+256	A autoridade do dono do Castelo foi concedida. 
+257	Mistura Parapoong completa.
+258	%s se tornou o dono de %s.
+259	Não tem GP para voltar.
+260	Digite novamente o valor.
+261	Sobreviva pelos ultimos minutos para obter o Parapoong!
+262	Mistura Parapoong completa.
+263	Siege Affair de %s começou.
+264	Siege Affair de %s comepleto.
+265	Só Guild Master são elegíveis para a mistura Parapoong.
+266	Você não pode mover enquanto está na mistura Parapoong.
+267	Donos de castelos não podem desfazer suas Guilds.
+268	Não é possível dividir Guilds na hora do Siege Affair.
+269	Não é possível dividir Guilds após o registro de Siege Affair.
+270	Você não pode definir os preços com esta taxa de imposto.
+271	Você pode ajustar o imposto 3 vezes em um ciclo.
+272	Não é possível procurar abaixo %uGP.
+273	Você digitou uma quantidade de dinheiro que é mais do que a quantidade disponível.
+274	%uGP excedido.
+275	Não pode ser usado durante Siege Affair.
+276	Este item não pode ser mantido no armazém.
+277	Função de jogar no chão não está disponível para este item.
+278	Você deve levantar-se antes de tentar a mistura Parapoong.
+279	Você tem certeza? Se confirmar isso, você não pode alterá-lo até depois da próxima Siege Affair.
+280	Você precisa de sete dias para modificar as informações
+281	Informações de Guild revistas.
+282	Informação da Guild e condições de inscrição não podem ser revistos, ao mesmo tempo.
+283	Você deve clicar com o botão direito sobre o item negociado e confira os detalhes antes de poder comercial.
+284	Você recebeu uma armadura estilo Para.
+285	Você não é um membro da Guild do Dono do Castelo, você não pode receber o item.
+286	GP insuficiente.
+287	Não há encantamento aplicável ??sobre este item.
+288	Synergy foi excluído.
+289	Encantamento deletado.
+290	Essa habilidade não pode ser usada contra esse alvo.
+291	Você não pode usar essa habilidade agora
+292	Não pode receber a habilidade agora.
+293	Você não pode usar habilidades nessa area
+294	A habilidade não pode ser usada.
+295	Você não pode usar isso em si próprio
+296	Por favor, equipar monstro na janela de informações.
+297	Não pode equipar mais.
+298	Espaço no inventário não é suficiente.
+299	voce não pode negociar itens equipados.
+300	Itens equipados não podem ser jogados fora.
+301	Este Hench não pode ser removido.
+302	Este Hench não pode equipar esse item.
+303	Abertura de item não pode ser mais aumentado
+304	A abertura foi aplicada.
+305	Hench foi equipado com item.
+306	Você gostaria de definir o seu SP para as competências? Quando usado SP não pode ser restaurado.
+307	SP foi adicionado com êxito.
+308	SP uso cancelado.
+309	%s chegou no nível %d.
+310	Você deve adicionar algumas SPs antes de usar a habilidade. Isso pode ser feito clicando na guia de habilidade.
+311	Nível Final.
+312	Próximo nível: SP%d
+313	Encontrar Espelho da Seleção no Rojeta Dungeon para a habilidade secundária.
+314	Movendo-se para a janela de seleção de personagens em 5 segundos.
+315	Item de mesma série não podem ser usados.
+316	Esse item tem restrições de nível de mistura. Ele não pode ser usado pelo nível de mistura %d. 
+317	Esse item tem restrições de nível de mistura. Ele não pode ser usado pelo nível de mistura%d. 
+318	Não há oportunidade restante.
+319	Tempo restante: %d 
+320	Não há mais munição.
+321	As despesas extras necessárias para mistura.
+322	%s expirou.
+323	%s usou.
+324	Por favor, verifique o limite de caracteres.
+325	Desde que você faça spam, bate-papo é bloqueado por 3 minutos.
+326	Você está usando a velocidade de ataque Incremento Scroll ou Transformation Scroll. Você tem certeza quanto à utilização do seleted?
+327	Você está usando Scroll atributivo. Você tem certeza quanto à utilização do seleted?
+328	Jogador %s convidou você para uma parceria. @voce gostaria de se juntar a parceria?
+329	Membros da parceria %s apareceram em %s area.
+330	Recusar convite para parceria.
+331	Numero excessivo de membros na parceria.
+332	Você já se juntou a parceria.
+333	Você não é um membro de guild.
+334	Este item não pode ser armazenado no armazém.
+335	Jogador %s está usando que armazém da guild.
+336	Seu armazém está cheio. Você não pode armazenar mais itens.
+337	Seu inventário está cheio. Você não pode armazenar mais itens.
+338	O item está desaparecido devido a durabilidade.
+339	Você pode armazenar apenas um de cada vez.
+340	Erro inesperado.
+341	Erro: Você não pode armazenar item cash.
+342	Erro: Você equipou o item hench errado.
+343	Bem vindo a Guild
+344	Prazer em conhecer você
+345	Você foi convidado a %s Guild. @Voce gostaria de se juntar a ela?
+346	Recusar convite para Guild
+347	Numero excessivo de membros na guild.
+348	Você já se juntou a guild.
+349	Voce não tem autoridade.
+350	Jogador %s se retirou da parceria.
+351	Voce se retirou da parceria.
+352	Jogador %s se tornou o mestre da parceria.
+353	Jogador %s se juntou a parceria.
+354	Jogador %s logou no jogo.
+355	Jogador %s deslogou do jogo.
+356	Ele ou ela está esperando o resultado do pedido da guild. @Você não pode convidar o jogador.
+357	Ele ou ela está esperando o resultado do pedido da guild. @Você não pode convidar o jogador.
+358	Dano de Ataque aumentado.
+359	Velocidade de Ataque aumentada.
+360	Chance de Ataque aumentada, dano Magico aumentado.
+361	MP aumentou, recuperação Magica aumentada.
+362	Você não faz parte de nenhuma parceria.
+363	Você não faz parte de nenhuma guild.
+364	De %s : %s
+365	Para %s : %s
+366	%s anuncia : %s
+367	Item comprado com sucesso!
+368	Seu nível está fora que faixa disponível.
+369	%s da %s
+386	O Nível da Synerg Diminuiu.
+387	Não Tem nível De Synerg Para Diminuir.
+388	Arraste Os itens Que você quer extrair encantar Slot1 e Slot2.
+389	Esse Item effeito de Synerg não pode extraido e encantado.
+390	Este iten não encando não pode ser extraido.
+391	Este iten não pode ser Encantado novamente.
+392	Arraste Os itens Que você quer extrair encantar Slot1 e Slot2.
+393	Esse Item não pode ser extraido e encantado.
+394	Este item não está encantado e não pode ser extarido.
+395	Este Item não pode ser encandado novamente.
+396	Extrair [%s], encantar a synerg do item Para [%s].
+397	Extrair [%s], encanta item Opção em [%s].
+398	Item Synerg e encantamento Extraidos Com Sucesso.
+399	Item Opção e encantamento extraidos com sucesso.
+400	Arraste o Iten que você quer encantar no Slot2.
+401	Arraste o Iten que você quer Extrair no Slot1.
+402	Arraste o Iten que você quer encantar no Slot2.
+403	Arraste o iten que você quer extrair no Slot1.

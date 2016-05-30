@@ -1,0 +1,26 @@
+1	O servidor está ocupado no momento. Por favor, tente novamente.
+2	Desconecte do servidor. O servidor está ocupado.
+3	Por favor instale nova versão do cliente. Visite a página inicial do Mixmaster
+4	ID inválido. A senha é sensível a maiúsculas. Por favor, verifique o seu CAP LOCK.
+5	Senha errada. Por favor, verifique o seu CAP LOCK e tente novamente.
+6	Conta inválida.
+7	Conta não autorizada.
+8	Erro inesperado. Encerrar o programa.
+9	Não há suporte.
+10	O espaço não é válido.
+11	Entre com 4 a 12 letras ou números.
+12	Necessita de mais de 4 letras ou números.
+13	Necessita de mais de 4 letras ou números.
+14	Servidor
+15	Em manutenção
+16	Manutenção do servidor
+17	Informações sobre a versão ilegível.
+18	Você precisa da nova versão do cliente.
+19	Você precisa da antiga versão do cliente.
+20	Erro de conecção
+21	Bom
+22	Normal
+23	Ocupado
+24	Não está disponível
+25	Nome do servidor
+26	Status do servidor

@@ -1,0 +1,50 @@
+1	@      User authentication failure
+2	@     Connection of the existing connection person was cut.
+3	@       Character deletion failure.
+4	@    Same character name exists.
+5	@        Character generation failure
+6	@        Server connection failure
+7	@         Zone move failure
+8	@    Game storage information error (code : %d)
+9	Connection to server was canceled (%d)
+10	error : 114
+11	error number : % d graphic card does not support 3D function.
+12	"error number : In the %d window mode, set the screen color mode to 16 beats(color tone) and start again."
+13	error number : %d
+14	error number   : The version above the %d DirectX 8.1 is not installed.
+15	error number : %d
+16	error number : % d WinSock 2.0 is not installed. Try again after installing the \n
+17	@        The margin numerical value remains.
+18	Name is too short. Name should be more than 2 letters
+19	Name is too long. Name should be no more than 12 letters
+20	@      Space key is not permitted.
+21	 You may only use alphabet or number
+22	Your have entered prohibited word. Please try again. 
+23	"After your delete your character, all information will be discarded. Would like to continue?"
+24	@        Would you like to finish the game?
+25	Another user is logged in with the same ID.
+26	The character was deleted.
+27	"Since you are currently a Guild Master, you cannot delete your character. Either break up the Guild or give the mastership another character."
+28	It is not supported yet.
+29	It is under standby from a server. Click yes to finish the program
+30	User authentication was failed from the server.
+31	The charged time was completed. Please connect again after charging.
+32	System has exceeded maximum permission number.
+33	Logout process of the existing user has failed. Please come back after a few moments. 
+34	The existing user logout is under processing now. Please try later.
+35	There is no time which can be used. Please connect again after charging.
+36	All of the available IPs are being used.
+37	The error occurred unexpectedly in user authentication.
+38	Connection was terminated by other users.
+39	Connection was terminated since exceeded number of users.
+40	Authentication is under process. Please wait for a while.
+41	"Time passes during the character selection window. Please finish the game, when you are not playing the game."
+42	Today's time limit has expired.
+43	Today's time limit has expired.
+44	"For security and fraud purpose, we need to check your account before we can delete your account. Please wait 7days. "
+45	"Selected character's waiting time(7 days) for deleting has not passed yet. Deletion date is [%d year, %d month, %d date, %d hour, %d minute]"
+46	The selected character is waiting for to be deleted. Click on confirm to cancel the deletion. 
+47	This character will be deleted on Year: %d  Month: %d  Day:%d Hour:%d Minute:%d 
+48	The connection with a server went out by a management personnel.
+49	A guild mark is being downloaded. Remaining number of guild mark : %d
+50	"Downloading of the guild mark has not yet completed. Would you like to download again? If you push 'cancel', the guild mark will be downlaoded when you connect next time."

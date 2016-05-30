@@ -1,0 +1,6 @@
+84	Warehouse Keeper	4	5	1	3	4
+Olá! Estou Warehouse Keeper.
+Inicialmente você pode armazenar 20 itens distribuídos em 20 núcleos no armazém.
+Se você estender o depósito, você pode armazenar mais henches e núcleos.
+Toda extensão aumenta 10 compartimentos do armazém e você pode ampliar seu armazém máximo 4 vezes.
+Compra Armazém / Extensão @Warehouse Open
